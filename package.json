@@ -1,0 +1,11 @@
+{
+  "name": "backend_auth",
+  "version": "1.0.0",
+  "description": "It has basically all functionality enabled for auth handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casanova Tech",
+  "license": "MIT"
+}
